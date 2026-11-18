@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# БД и временные файлы
+*.db
+*.sqlite3
+.DS_Store
+
+# Инструменты
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Логи
+*.log
